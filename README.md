@@ -1,5 +1,7 @@
+![MasterHead](https://wallpapercave.com/wp/wp9109485.jpg)
 <h1 align="center">Hi 👋, I'm Artur Wlodarczyk</h1>
 <h3 align="center">A passionate backend developer located in Poland</h3>
+<img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/6155c507ef9c628f0641b57b/6155e70bcde10ced88678630_cartoon%20programmer-min.png" />
 
 - 🔭 I’m currently working on **MedFriend App**
 
